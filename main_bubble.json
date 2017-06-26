@@ -1,0 +1,28 @@
+{"name":"Sourse", "children": [
+{"name":"Data","description":"Where I find data",
+"children":[
+    {"name": "World bank","address":"http://data.worldbank.org/indicator/PA.NUS.FCRF", "note":"An open and complete currency database within 90 years"},
+    {"name": "BBC","address":"http://www.bbc.com/news/world","note":"You can see the world"}
+]},
+{"name": "View", "description": "How i preform it",
+"children":[
+    {"name":"HTML","address":"http://www.powmo.com/","note":"A basic way to show a web page"},
+    {"name":"CSS","address":"http://www.1keydata.com/css-tutorial/tw/", "note":"Cascading Style Sheets"},
+    {"name":"D3.js","address":"https://d3js.org/","note":"a JavaScript library for manipulating documents based on data"}
+]},
+{"name":"D3.js", "description":"Data-Driven Documents",
+"children":[
+    {"name":"Bubble chart","address":"http://bl.ocks.org/phuonghuynh/54a2f97950feadb45b07"},
+    {"name":"Line Chart","address":"https://bl.ocks.org/mbostock/3883245"},
+    {"name":"Bubble Menu","address":"http://sunsp.net/demo/BubbleMenu/"}
+]},
+{"name":"Country", "description":"There are totally 5",
+"children":[
+    {"name":"China","address":"china.html"},
+    {"name":"India","address":"india.html"},    
+    {"name":"Japan","address":"japan.html"},
+    {"name":"Malaysia","address":"malaysia.html"},
+    {"name":"Singapore","address":"singapore.html"}
+]}
+]}
+
