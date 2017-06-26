@@ -4,7 +4,7 @@ $(document).ready(function () {
     //container: => use @default
     size: 600,
     //viewBoxSize: => use @default
-    innerRadius: 600 / 3.5,
+    innerRadius:600 / 3.5,
     //outerRadius: => use @default
     radiusMin: 50,
     //radiusMax: use @default
